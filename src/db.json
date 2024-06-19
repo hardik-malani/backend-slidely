@@ -1,13 +1,6 @@
 {
   "submissions": [
     {
-      "name": "Jane Doeeeeeeeeeeeeee",
-      "email": "janedoe@gmail.com",
-      "phone": "1234567890",
-      "github_link": "https://github.com/jane_doe/my_slidely_task/",
-      "stopwatch_time": "00:02:30"
-    },
-    {
       "name": "bjhjhbjbh",
       "email": "ygjjg@jgyjgy.gyyjggggggggggggggggg",
       "phone": "6767t",
@@ -15,11 +8,11 @@
       "stopwatch_time": "00:00:33"
     },
     {
-      "name": "sddsd",
-      "email": "dsdsdsdsdsds@fefdfd.fdfdf",
-      "phone": "dsdsds",
-      "github_link": "dsdsdssd",
-      "stopwatch_time": "00:00:03"
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/jane_doe/my_slidely_task/",
+      "stopwatch_time": "00:22:30"
     }
   ]
 }
