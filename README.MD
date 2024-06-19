@@ -64,7 +64,7 @@ Follow these instructions to set up and run the backend on your local machine.
 ## File Structure
 
 ```plaintext
-submission-backend/
+backend-slidely/
 ├── src/
 │   ├── controllers/
 │   │   └── submissionController.ts
@@ -80,6 +80,6 @@ submission-backend/
 ```
 
 
-# Contributors
+## Contributors
 
 * Hardik Malani
