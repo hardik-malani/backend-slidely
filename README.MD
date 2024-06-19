@@ -15,7 +15,14 @@ Follow these instructions to set up and run the backend on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/submission-backend.git
+   git clone https://github.com/hardik-malani/backend-slidely.git
    cd submission-backend```
 
-2.
+2. Install the dependencies:
+   ```npm install```
+
+3. Compile TypeScript code
+   ```tsc```
+
+4. Run the server
+   ```npm run start```
